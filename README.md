@@ -1,7 +1,7 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: ROHITH J</h3>
 <h3>Register Number: 212224230232</h3>
-<h3>Date: 19/11/2026 </h3>
+<h3>Date: 04/11/2026 </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
